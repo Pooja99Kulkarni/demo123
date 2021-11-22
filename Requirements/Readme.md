@@ -6,7 +6,7 @@ HIGH LEVEL REQUIREMENTS : CUSTOMER BILLING SYSTEM ABOUT THE PROJECT :
 
 . It also helps us to do the billing in less time and it also helps to reduces the queqe in the billing counter as it is time saving.
 
-FEATURES :
+FEATURES :""
 
 Can able to add no.of. items,
 Shows Purchase date,
