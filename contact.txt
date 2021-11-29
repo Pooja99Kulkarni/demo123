@@ -4,5 +4,10 @@ public class hello {
 
 	public static void main(String[] args) {
 System.out.println("hello");
+System.out.println("My contact number is : 12345");
+System.out.println("My address is: Mumbai");
+System.out.println("My office name is: LTI");
+
+
 }
 }
